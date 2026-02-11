@@ -16,5 +16,13 @@
     "eslint": "^10.0.0",
     "globals": "^17.3.0",
     "husky": "^9.1.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangeric/tp_outil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sangeric/tp_outil/issues"
+  },
+  "homepage": "https://github.com/sangeric/tp_outil#readme"
 }
